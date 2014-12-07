@@ -24,7 +24,7 @@ th{
 }
 
 .alkaliMetals:hover{
-	background-color: #FF0000;
+	background-color: #DD0000;
 	text-decoration: none;
 }
 
@@ -33,7 +33,7 @@ th{
 }
 
 .alkaliEMetals:hover{
-	background-color: #FF9900;
+	background-color: #DD7700;
 }
 
 .tMetals{
@@ -65,7 +65,7 @@ th{
 }
 
 .nonMetals:hover{
-	background-color: #00FFFF;
+	background-color: #00CCCC;
 }
 
 .halogens{
@@ -77,7 +77,7 @@ th{
 }
 
 .noble{
-	background-color: #FF00FF;
+	background-color: #FF99FF;
 }
 
 .noble:hover{
