@@ -1,0 +1,85 @@
+*{
+	text-decoration: none;
+	color: black;
+	font-family: Verdana;
+}
+
+td{
+	text-align: center;
+	height: 50px;
+	width: 55px;
+    display: inline-block;
+}
+
+th{
+	font-family: sans-serif;
+	text-align: center;
+	height: 15px;
+	width: 55px;
+    display: inline-block;	
+}
+
+.alkaliMetals{
+	background-color: #FF5C33;
+}
+
+.alkaliMetals:hover{
+	background-color: #FF0000;
+	text-decoration: none;
+}
+
+.alkaliEMetals{
+	background-color: #FFAD33;
+}
+
+.alkaliEMetals:hover{
+	background-color: #FF9900;
+}
+
+.tMetals{
+	background-color: #FFFF66;
+}
+
+.tMetals:hover{
+	background-color: #E6E65C;
+}
+
+.ptMetals{
+	background-color: #D1FF47
+}
+
+.ptMetals:hover{
+	background-color: #B8E62E
+}
+
+.metalloids{
+	background-color: #94FFB8;
+}
+
+.metalloids:hover{
+	background-color: #52CC7A;
+}
+
+.nonMetals{
+	background-color: #B2FFFF ;
+}
+
+.nonMetals:hover{
+	background-color: #00FFFF;
+}
+
+.halogens{
+	background-color: #CCB2FF;
+}
+
+.halogens:hover{
+	background-color: #A375FF;
+}
+
+.noble{
+	background-color: #FF00FF;
+}
+
+.noble:hover{
+	background-color: #DD00DD;
+}
