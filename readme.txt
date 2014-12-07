@@ -1,0 +1,1 @@
+This is an interactive periodic table built with HTML and CSS.
