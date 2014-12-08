@@ -92,3 +92,19 @@ p{
 .noble:hover{
 	background-color: #DD00DD;
 }
+
+.lanthanides{
+	background-color: #85ADFF;
+}
+
+.lanthanides:hover{
+	background-color: #638BDD;
+}
+
+.actinides{
+	background-color: #7FDB7F;
+}
+
+.actinides:hover{
+	background-color: #5DB95D;
+}
