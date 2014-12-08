@@ -9,7 +9,7 @@ td{
 	height: 50px;
 	width: 55px;
     display: inline-block;
-    font-size: 22px;
+    font-size: 20px;
 }
 
 th{
@@ -23,7 +23,7 @@ th{
 p{
 	font-size: 10px;
 	padding-bottom: 3px;
-	padding-top: 1px;
+	padding-top: 0px;
 	border: 0px;
 	margin: 0px;
 }
