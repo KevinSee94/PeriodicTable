@@ -4,6 +4,10 @@
 	font-family: sans-serif;
 }
 
+h1{
+	text-align: center;
+}
+
 td{
 	text-align: center;
 	height: 50px;
@@ -93,18 +97,18 @@ p{
 	background-color: #DD00DD;
 }
 
-.lanthanides{
+.lanth{
 	background-color: #85ADFF;
 }
 
-.lanthanides:hover{
+.lanth:hover{
 	background-color: #638BDD;
 }
 
-.actinides{
+.acti{
 	background-color: #7FDB7F;
 }
 
-.actinides:hover{
+.acti:hover{
 	background-color: #5DB95D;
 }
